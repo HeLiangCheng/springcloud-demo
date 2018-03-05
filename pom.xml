@@ -13,6 +13,8 @@
         <module>micro-eureka</module>
         <module>micro-gateway</module>
         <module>micro-monitoring</module>
+        <module>author-service</module>
+        <module>user-service</module>
     </modules>
 
 </project>
