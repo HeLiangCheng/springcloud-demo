@@ -17,4 +17,7 @@
         <module>user-service</module>
     </modules>
 
+    <!--
+      参考文档     http://blog.csdn.net/forezp/article/details/69808079
+    -->
 </project>

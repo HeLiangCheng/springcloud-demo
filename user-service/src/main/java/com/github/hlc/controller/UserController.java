@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Created by Liang on 2018/3/5.
  */
 @RestController
+@RequestMapping("/api/user")
 public class UserController {
 
     @Value("${server.port}")
